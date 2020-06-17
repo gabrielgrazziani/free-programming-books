@@ -124,6 +124,7 @@
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/) - Caelum
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
+* [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana
 
 
 ### JavaScript
